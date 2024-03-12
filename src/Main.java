@@ -6,7 +6,6 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
         example3();
-//        (0*111*0 U 0*10)(10*111*0 U 10*10)*(10* U EPS) U 0*
     }
 
     // example 1.66 from book
