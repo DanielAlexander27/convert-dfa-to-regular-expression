@@ -1,4 +1,4 @@
-#convert-dfa-to-regular-expression
+# convert-dfa-to-regular-expression
 
 To use the algorithm you have to create the transition functions and the DFA. The convert it into a GNFA (the GNFA class has a constructor that receives a DFA). Then, call the algorithm!
 
